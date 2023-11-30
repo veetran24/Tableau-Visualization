@@ -11,8 +11,10 @@ Dashboard is  for quick overview of the distribution of listings and the popular
 ## Story 2: Distribution of Price Ranges by Neighborhood and Room Type 
 The dashboard provides insights into the distribution of price ranges by neighborhood and room type. The map is to illustrate price ranges by neighborhood. The linked histograms offer a detailed view of the number of room types and median prices listings, facilitating a comprehensive understanding of color coding for price range in the map.
 
+## Story 3: Loocation Matters!
 Story 3 is a map allows users to visually compare median prices across different neighborhoods with a text note highlights for the top neighborhoods with high listings and price for Seattle Airbnb market.
 
+## Story 4:Highlight  top 5
 Story 4 is the histograms of the top 5 hosts and median prices offer insights into the key contributors to the Airbnb landscape in Seattle. Annotations provide additional context and insights into the significance of the top 5 listings.
 
 ## Design choices are are bar chart and map:
